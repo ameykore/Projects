@@ -1,0 +1,1 @@
+bat_constant = 0.00416

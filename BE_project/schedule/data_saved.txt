@@ -1,0 +1,4 @@
+battery_takeoff = 12.587
+battery_land = 12.242
+battery_diff = 0.345
+battery_const = 0.01725

@@ -1,0 +1,13 @@
+#update_port_number=5678
+#command_port_number=6668
+RADIUS_OF_EARTH = 6373000.0
+DRONE_ID_1 = 1
+DRONE_ID_2 = 2
+DRONE_ID_3 = 3
+DRONE_ID_4 = 4
+UAV_AIR_SPEED = 2
+DEFAULT_ALTITUDE = 5
+DEFAULT_MODE = 'GUIDED'
+
+DURATION_UAV_FORWARD_BACKWARD_MOVEMENT = 2          #time in seconds
+SPEED_UAV_FORWARD_BACKWARD_MOVEMENT = 2             #speed in m/s
